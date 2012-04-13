@@ -1,0 +1,7 @@
+h1. profile
+
+まりだよ
+
+h2. birthday
+
+2月11日だよ
